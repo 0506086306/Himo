@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ar" >
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+
+
+<title>الرئيسية</title>
+<link rel="shortcut icon" type="image/x-icon" href="/portal/individuals/images/favicon.ico" />
+
+
+	<script type="text/javascript">
+		try { 
+			var environment = '';	
+			(''.trim() == "") ? document.querySelector("html").classList.add('prod') : document.querySelector("html").classList.add('') ;
+		} catch(eee) {}
+	</script>
+
+		<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/resposivedatatable/jquery.dataTables.css?v=02_16_12" />
+		<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/resposivedatatable/dataTables.responsive.css?v=02_16_12" />
+		<link rel="stylesheet" type="text/css" href="/portal/individuals/local/js/jquery-ui/jquery-ui.min.css?v=02_16_12" />
+		<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/flora.calendars.picker.css?v=02_16_12" />
+	
+
+	<link rel="stylesheet" type="text/css" href="/portal/individuals/local/fontello/css/fontello.css?v=02_16_12" />
+	<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/tabs.css?v=02_16_12" />
+	<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/custom.css?v=02_16_12">
+	<link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/eservices_style.css?v=02_16_12">    
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/css/bootstrap.min.css?v=02_16_12">
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/css/bootstrap-theme.min.css?v=02_16_12">
+    
+    	<link rel="stylesheet" type="text/css" href="/portal/individuals/css/bootstrap-rtl.min.css?v=02_16_12">
+    
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/css/animate.css?v=02_16_12">
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/css/theme.css?v=02_16_12">
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/css/IndiTheme.css?v=02_16_12">
+    <link rel="stylesheet" type="text/css" href="/portal/individuals/local/css/font_arabic.css?v=02_16_12" />
+
+    <!-- Script starts -->
+    <script type="text/javascript" src="/portal/individuals/local/js/jquery-ui/jquery-ui.min.js?v=02_16_12"></script>
+	<!-- Resolve Bootstrap Conflict with Jquery UI library     -->
+    <script type="text/javascript" src="/portal/individuals/local/js/jquery.min-1.11.1.js?v=02_16_12"></script>
+    <script type="text/javascript">
+    	var jq_bt = $.noConflict(true);
+    </script>
+    <script type="text/javascript" src="/portal/individuals/local/js/jquery.min-1.7.2.js?v=02_16_12"></script>
+    <script type="text/javascript" src="/portal/individuals/local/js/calendar_moi_dateConverter.js?v=02_16_12"></script>
+
+		
+		<script type="text/javascript" src="/portal/individuals/local/js/jquery.sliderTabs.js?v=02_16_12"></script>
+		<script type="text/javascript" src="/portal/individuals/local/js/custom.js?v=02_16_12"></script>
+		
+			<script type="text/javascript" src="/portal/individuals/local/js/resposivedatatable/dataTable.custom.ar.js?v=02_16_12"></script>
+		
+		<script type="text/javascript" src="/portal/individuals/local/js/resposivedatatable/jquery.dataTables.min.js?v=02_16_12"></script>
+		<script type="text/javascript" src="/portal/individuals/local/js/resposivedatatable/dataTables.responsive.min.js?v=02_16_12"></script>
+		
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.plugin.js?v=02_16_12"></script>
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.js?v=02_16_12"></script>
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.plus.js?v=02_16_12"></script>
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.picker.js?v=02_16_12"></script>
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.ummalqura.js?v=02_16_12"></script>
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.imoi.initGregWithHijri.js?v=02_16_12"></script> 
+		<script src="/portal/individuals/portlet_resources/calendar/jquery.calendars.imoi.initGregWithHijri.Single.js?v=02_16_12"></script>
+	</head>
+
+<body class="rtl individuals">	
+	
+	<div class="container">
+
+			<ol class="breadcrumb">			
+										
+								<li class="active"></li>
+								<script>selectedPage = 'الرئيسية';</script>
+							
+			</ol>
+		
+	</div>	
+<section class="inner-main">
+		<div class="container">
+			<div class="row">
+				 
+<style>.centeredTextDiv
+{
+text-align: center;
+margin: 4px;
+}
+.bigErrorText
+{
+font-size: 18pt;
+font-weight: bold;
+}
+.errorText
+{
+color: #C83030;
+}
+</style><script>if (top.location.href != self.location.href)
+{
+top.location=self.location;
+}
+</script><div class="centeredTextDiv" ><span class="bigErrorText" >‏يوجد خطأ بالتطبيق!‏</span></div><div class="centeredTextDiv" ><span class="errorText">‏برجاء الاتصال بمسؤول النظام الخاص بك للابلاغ عن هذا الخطأ.‏</span></div></div>
+		</div>
+	</section>
+	</body>
+</html>
